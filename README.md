@@ -13,7 +13,6 @@ Além dos códigos mencionados pelo professor, procurei por meios externos forma
      background-color: whitesmoke;
      background-repeat: no-repeat;
      background-attachment: fixed;
-margin-left: 30px}
 ```
 Adicionei opacidade em um ponto e usei o text-align, que também estava fora da aula mas me foi muito útil:
 ```
@@ -27,7 +26,6 @@ p {
     margin-right:50px; 
 }
 
-}
 h4 {
     text-align: center;
     opacity: 0.5
