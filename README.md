@@ -8,7 +8,6 @@ Resultado da aula pratica com o professor Rafael Galleani da Digital Innovation 
 
 Além dos códigos mencionados pelo professor, procurei por meios externos formas de otimizar a minha página, com comandos de Background:
 ```
-body {
     background-image: url(bg1.jpg);
      background-size: cover;
      background-color: whitesmoke;
