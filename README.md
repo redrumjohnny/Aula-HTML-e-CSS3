@@ -3,6 +3,8 @@
 Resultado da aula pratica com o professor Rafael Galleani da Digital Innovation One
 
 ![page](https://user-images.githubusercontent.com/66808941/84584930-81316900-ade0-11ea-86e8-fa9d53056407.png)
+![page2](https://user-images.githubusercontent.com/66808941/84585279-927c7480-ade4-11ea-8496-bd28f3ffdb2f.png)
+
 
 ## Códigos e pesquisas
 
