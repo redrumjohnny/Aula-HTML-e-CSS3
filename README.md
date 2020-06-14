@@ -3,8 +3,6 @@
 Resultado da aula pratica com o professor Rafael Galleani da Digital Innovation One
 
 ![page](https://user-images.githubusercontent.com/66808941/84584930-81316900-ade0-11ea-86e8-fa9d53056407.png)
-![page2](https://user-images.githubusercontent.com/66808941/84585279-927c7480-ade4-11ea-8496-bd28f3ffdb2f.png)
-
 
 ## Códigos e pesquisas
 
@@ -37,6 +35,9 @@ h4 {
     }
 ```
 Em todas as imagens dos métodos de preparo, adicionei um hiperlink para redirecionar á uma página que explica o passo-a-passo do preparo:
+
+![page2](https://user-images.githubusercontent.com/66808941/84585279-927c7480-ade4-11ea-8496-bd28f3ffdb2f.png)
+
 ```
 <div>
              <a href="https://coffee-brewing-methods.com/how-to-use-a-french-press-coffee-maker/"target ="_blank">
