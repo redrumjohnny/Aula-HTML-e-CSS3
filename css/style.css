@@ -1,0 +1,38 @@
+body {
+    background-image: url(bg1.jpg);
+     background-size: cover;
+     background-color: whitesmoke;
+     background-repeat: no-repeat;
+     background-attachment: fixed;
+margin-left: 30px}
+
+h1 {text-align: center;
+font-family: sans-serif 
+}
+h2 {text-align: center;
+    font-family: sans-serif;
+    margin-top: 100px;
+    margin-bottom: 20px
+}
+h3 {text-align: left;
+    font-family: sans-serif ;
+    margin-top: 100px
+}
+p {
+    font-family:sans-serif;
+    margin-left: 50px;
+    margin-right:50px;
+    
+}
+.imagem_c {
+    width: 300px;
+    margin-left: 500px;
+    margin-top: 30px
+}
+footer {
+    margin-top: 60px
+}
+li {
+    font-size: 20px;
+    font-family: sans-serif
+}
